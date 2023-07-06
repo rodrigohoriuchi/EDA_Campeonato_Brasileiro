@@ -1,7 +1,7 @@
 # EDA_Campeonato_Brasileiro
 Analise exploratória de dados - Campeonato Brasileiro
 
-![]([https://cdn.create.vista.com/api/media/small/150617900/stock-photo-soccer-ball-on-grass](https://cdn.pixabay.com/photo/2016/11/29/07/06/bleachers-1867992_1280.jpg))
+![](https://media.istockphoto.com/id/1314505230/photo/football-soccer-ball-on-grass-field-on-stadium.jpg?s=170667a&w=0&k=20&c=gtyc3V9YwjnkEFdiNOCoM5KiCfdNnAQUxqAFl9TPkcc=)
 
 ## Proposta
 Proposto pelo Clube de Assinatura Universidade dos Dados, o objetivo do projeto era criar uma análise exploratória de dados utilizando o dados do campeonato brasileiro. Para este desafio, a ideia foi de fazer uma análise exploratória de modo a entender melhor a distribuição e qualidade dos dados disponibilizados, e depois utilizar como guia algumas frases conhecidas do mundo do futebol de modo a verificar se existe um paralelo com o Campeonato brasileiro. Ao final, analisou-se as estatísticas disponibilizadas dos últimos campeões para entender os diferentes estilos de jogo que fizeram dos times os campeões das últimas temporadas.
